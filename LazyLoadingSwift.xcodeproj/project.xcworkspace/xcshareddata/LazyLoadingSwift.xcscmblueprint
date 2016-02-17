@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++4974",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++4974" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++4974" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BC5EEC3E-BFFB-4EAF-B9CC-D957E28670E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++4974" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LazyLoadingSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LazyLoadingSwift\/LazyLoadingSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/cloud.innovationm.com\/mnt\/repos\/arch-design-patterns",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++4974"
+    }
+  ]
+}
